@@ -8,5 +8,7 @@ An extended Nüshu font derived from [Noto Traditional Nushu](https://github.com
 
 ![Periodic table of elements in Nüshu script](https://github.com/Honoka55/IongsewTcyntang/blob/main/res/table.png)
 
+(Font of the Western characters in the table is [Gilbert](https://github.com/Fontself/TypeWithPride), licensed  under the Creative Commons Attribution-ShareAlike 4.0 International License.)
+
 ## License
 Licensed under [the SIL Open Font License v1.1](https://github.com/Honoka55/IongsewTcyntang/blob/main/LICENSE).
