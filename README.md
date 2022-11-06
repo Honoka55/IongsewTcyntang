@@ -8,7 +8,19 @@ An extended Nüshu font derived from [Noto Traditional Nushu](https://github.com
 
 ![Periodic table of elements in Nüshu script](https://github.com/Honoka55/IongsewTcyntang/blob/main/res/table.png)
 
-(Font of the Western characters in the table is [Gilbert](https://github.com/Fontself/TypeWithPride), licensed  under the Creative Commons Attribution-ShareAlike 4.0 International License.)
+(Font of the Western characters in the table is [Gilbert](https://github.com/Fontself/TypeWithPride), licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.)
+
+## Change log
+
+- V1.000 (2022-08-01)
+
+    Support all the periodic table characters.
+
+- V1.001 (2022-11-06)
+
+    Add some characters for the epidemic prevention and control of COVID-19.
+
+    ![Poster Sample](https://github.com/Honoka55/IongsewTcyntang/blob/main/res/covid.png)
 
 ## License
 Licensed under [the SIL Open Font License v1.1](https://github.com/Honoka55/IongsewTcyntang/blob/main/LICENSE).
